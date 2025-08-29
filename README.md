@@ -1,2 +1,4 @@
-# spectra
-Spectra of primordial fluctuations from inflation
+spectra
+=======
+
+Fast calculator of primordial fluctuations spectra from multi-field inflation.
